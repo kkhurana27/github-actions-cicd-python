@@ -1,4 +1,4 @@
-# 02_04 CI for Python
+# 02_04 CI for Python and
 
 # Permissions for Checks
 Permissions are needed to update the Actions interface.  Permissions can be added under the `job` section for a specific job, or at the top of a workflow so all jobs assume the permission.
